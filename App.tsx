@@ -1,6 +1,6 @@
 
 import React from 'react';
-import MathClock from './components/MathClock';
+import MathClock from './components/MathClock.tsx';
 
 const App: React.FC = () => {
   return (
