@@ -1,0 +1,5 @@
+{
+  "name": "Math Clock Animator",
+  "description": "A functional analog clock that uses mathematical expressions for numbers, inspired by a popular internet meme. It features an animated pencil sketch video in the center, underneath the clock hands.",
+  "requestFramePermissions": []
+}
